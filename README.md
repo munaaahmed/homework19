@@ -1,7 +1,7 @@
 # homework19
 # Employee Directory
 ## Deployed Application Link
-https://notetaker62.herokuapp.com/
+https://munaaahmed.github.io/homework19/
 
 ## Table of Contents 
 
